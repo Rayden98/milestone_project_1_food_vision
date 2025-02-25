@@ -2,10 +2,10 @@ This repository contains Milestone Project 1: Food Vision, an advanced deep lear
 The model leverages TensorFlow, transfer learning, and mixed precision training to efficiently classify food categories.
 
 Features
-✅ Food-101 Dataset: Uses the TensorFlow Datasets (TFDS) implementation of Food-101.
-✅ Google Colab GPU Support: Runs efficiently with Tesla T4 GPU for mixed precision training.
-✅ Transfer Learning: Implements pre-trained CNN models to improve classification accuracy.
-✅ Model Evaluation: Includes loss curves, training history visualization, and performance comparison.
+✅ Food-101 Dataset: Uses the TensorFlow Datasets (TFDS) implementation of Food-101.\n
+✅ Google Colab GPU Support: Runs efficiently with Tesla T4 GPU for mixed precision training.\n
+✅ Transfer Learning: Implements pre-trained CNN models to improve classification accuracy.\n
+✅ Model Evaluation: Includes loss curves, training history visualization, and performance comparison.\n
 
 Key Aspects of the Notebook
 
