@@ -1,4 +1,4 @@
-# Food Vision - Deep Learning for Food Classification 🍽️🥘
+## Food Vision - Deep Learning for Food Classification 🍽️🥘
 
 This repository contains Milestone Project 1: Food Vision, an advanced deep learning model designed for food image classification using the Food-101 dataset. 
 The model leverages TensorFlow, transfer learning, and mixed precision training to efficiently classify food categories.
